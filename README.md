@@ -1,0 +1,2 @@
+# Smart-Hand-Gesture-Controlled-Robot-Using-AI-and-ESP32-for-Next-Gen-Human-Robot-Interaction
+Conventional robot control systems, which primarily rely on physical input devices  such as joysticks, remote modules, and wired controllers, face significant limitations in  modern applications. These traditional methods, while functional in controlled settings, are  often unintuitive, particularly for non-technical users.
